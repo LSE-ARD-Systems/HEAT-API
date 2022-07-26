@@ -21,4 +21,4 @@ You can then select any and all methods you want to make available to Flows and 
 ![image](https://user-images.githubusercontent.com/41118121/181125044-45b4f38b-4484-43ec-8925-3b175ad26fff.png)
 
 
-N.B. You may still have to refer to the (HEAT API Docs)[https://data.api.heat.ac.uk/index] as there are some items in the OpenAPI definiton which are functionally required such as api-version but not set as such in the spec)
+N.B. You may still have to refer to the [HEAT API Docs](https://data.api.heat.ac.uk/index) as there are some items in the OpenAPI definiton which are functionally required such as api-version but not set as such in the spec)
